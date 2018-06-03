@@ -1,0 +1,15 @@
+import javax.Swing;
+import java.awt.*;
+import java.awt.event.*;
+
+public class TongItsUI{
+	
+	public TongItsUI(){
+		initPlayer(
+		initComponents();
+	}
+
+	private void initComponents(){
+
+	}
+}
